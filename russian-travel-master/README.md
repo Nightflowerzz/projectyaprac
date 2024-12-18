@@ -1,6 +1,6 @@
 # Проект 3: Путешествия по России
 
-[Ссылка на проект на GitHub Pages](https://github.com/maxpowerleft/russian-travel?tab=readme-ov-file)
+[Ссылка на проект на GitHub Pages](https://github.com/Nightflowerzz/projectyaprac)
 
 Адаптивный сайт о разнообразии природы и культуры России. Примеры мест и вариантов путешествий по великой и необъятной стране.
 
